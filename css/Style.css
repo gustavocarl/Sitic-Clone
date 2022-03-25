@@ -1,0 +1,182 @@
+﻿body {
+    font-family: 'League Spartan', sans-serif;
+}
+
+.informacao-empresa {
+    background-image: url("../img/Pancheta_01.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 1076px;
+}
+
+
+.titulo-principal, .paragrafo-informacao {
+    text-align: center;
+}
+
+.titulo-principal {
+    text-transform: uppercase;
+    color: #F0F0F0;
+    padding-top: 30%;
+}
+
+.paragrafo-informacao {
+    color: #F0F0F0;
+    font-size: 1.2rem;
+}
+
+.negrito {
+    color: #000000;
+}
+
+.btn-informacao {
+    margin: 0 40%;
+    border-radius: 20px;
+    background-color: #F0F0F0;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+#sobre-nos {
+    padding-top: 2%;
+}
+
+.div-sobre-nos {
+    display: inline-block;
+    width: 43%;
+    vertical-align: middle;
+}
+
+.titulo-sobre-nos {
+    text-align: center;
+    color: #555555;
+    font-size: 3rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
+
+.sitic {
+    color: #4cff00;
+}
+
+
+.paragrafo-sobre-nos {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 5rem;
+}
+
+.sobre-nos {
+    font-size: 1.2rem;
+    margin-left: 0.5rem;
+}
+
+.img-sobre-nos {
+    width: 75%;
+    float: right;
+}
+
+.nossa-solucoes {
+    background-color: #4cff00;
+}
+
+.titulo-solucoes {
+    text-align: center;
+    color: #F0F0F0;
+}
+
+.figura {
+    width: 200px;
+    margin-left: 100px;
+}
+
+.texto-figura {
+    font-size: 2rem;
+}
+
+.empresas-parceiras {
+    padding-top: 5%;
+}
+
+.imagem-empresas-parceiras {
+    margin-left: 15%;
+}
+
+.titulo-empresas-parceiras {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.box {
+    margin-left: 15%;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.feedback-clientes {
+    padding: 2rem 0;
+}
+
+.titulo-feedback {
+    font-size: 2.3rem;
+    text-align: center;
+}
+
+.texto-feedback {
+    padding-bottom: 2rem;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.espaco-card {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.titulo-blog {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.imagem-blog {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagem {
+    width: 300px;
+}
+
+.texto-figura {
+    text-align: center;
+    font-size: 0.8rem;
+    padding-top: 0.5rem;
+}
+
+.btn-blog {
+    margin: 0 39%;
+    width: 300px;
+    text-transform: uppercase;
+}
+
+.form-contato {
+    margin: 2rem;
+    width: 40%;
+    display:inline-block;
+}
+
+.btn-form {
+    width: 100%;
+}
+
+.formulario-dados {
+    display:inline-block;
+    width: 49.6%;
+}
+
+.mapa {
+    height: 250px;
+    width: 100%;
+}
